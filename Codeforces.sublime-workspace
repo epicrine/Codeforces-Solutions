@@ -3,6 +3,10 @@
 	{
 		"selected_items":
 		[
+			[
+				"b",
+				"b_between_a"
+			]
 		]
 	},
 	"buffers":
@@ -19,6 +23,34 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"terminus",
+				"Terminus: List Shells"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"package remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"origami re",
+				"Origami: Restore Saved Layout"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"list package",
+				"Package Control: List Packages"
+			],
 			[
 				"remo",
 				"Package Control: Remove Package"
@@ -40,24 +72,12 @@
 				"Package Control: List Packages"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
-				"package",
-				"Package Control: Install Package"
-			],
-			[
 				"origami resto",
 				"Origami: Restore Saved Layout"
 			],
 			[
 				"packa",
 				"Package Control: Install Package"
-			],
-			[
-				"terminus",
-				"Terminus: List Shells"
 			],
 			[
 				"layout",
@@ -156,9 +176,10 @@
 	},
 	"console":
 	{
-		"height": 0.0,
+		"height": 246.0,
 		"history":
 		[
+			"ls"
 		]
 	},
 	"distraction_free":
@@ -172,16 +193,21 @@
 	},
 	"expanded_folders":
 	[
-		"/home/sivan/Developer/Competitions/Codeforces",
-		"/home/sivan/Developer/Competitions/Codeforces/Contests",
-		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3"
+		"/home/sivan/Developer/Competitions/Codeforces"
 	],
 	"file_history":
 	[
+		"/home/sivan/Developer/Competitions/Codeforces/CF-2149D-A_and_B.py",
+		"/home/sivan/Developer/Competitions/Codeforces/output.o",
+		"/home/sivan/Developer/Competitions/Codeforces/input.in",
+		"/home/sivan/Developer/Competitions/Codeforces/.gitignore",
+		"/home/sivan/Developer/Competitions/Codeforces/Codeforces.sublime-workspace",
+		"/home/sivan/Developer/Competitions/USACO/Phase_01-BronzeForge/Stage_09-Contest_Simulation/USACO_2016_Jan-Bronze/1-Promotion_Counting/input.in",
+		"/home/sivan/Developer/Competitions/USACO/Phase_01-BronzeForge/Stage_09-Contest_Simulation/USACO_2016_Jan-Bronze/1-Promotion_Counting/output.out",
+		"/home/sivan/Developer/Competitions/Codeforces/CF-750A-New_Year_and_Hurry.rs",
 		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/README.md",
 		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/B-Unconventional_Pairs.cpp",
 		"/home/sivan/Developer/Competitions/Codeforces/Contests/CF-Round_01054-Div3/A-Be_Positive.cpp",
-		"/home/sivan/Developer/Competitions/Codeforces/input.in",
 		"/home/sivan/Developer/Competitions/Codeforces/output.out",
 		"/home/sivan/Developer/Competitions/Codeforces/CF-1472B-Fair_Division.cpp",
 		"/home/sivan/.config/sublime-text/Packages/User/CP-C++.sublime-build",
@@ -272,6 +298,20 @@
 		]
 	},
 	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
 	"output.exec":
 	{
 		"height": 286.0,
@@ -310,7 +350,7 @@
 		[
 			[
 				"",
-				"~/Developer/Competitions/Codeforces/Codeforces.sublime-project"
+				"~/Developer/Competitions/USACO/USACO.sublime-project"
 			]
 		],
 		"width": 380.0
@@ -327,6 +367,8 @@
 	"selected_group": 0,
 	"settings":
 	{
+		"_vintageous_last_char_search_character": "i",
+		"_vintageous_last_char_search_command": "vi_t",
 		"_vintageous_reset_during_init": true,
 		"last_automatic_layout":
 		[
@@ -336,13 +378,14 @@
 				1,
 				1
 			]
-		]
+		],
+		"lsp_show_inlay_hints": false
 	},
 	"show_minimap": true,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": false,
-	"side_bar_width": 325.0,
+	"side_bar_visible": true,
+	"side_bar_width": 346.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

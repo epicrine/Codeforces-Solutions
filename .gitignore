@@ -2,5 +2,7 @@
 *.class
 
 # Hardcoded files
-Virtual_Contests_Participation.txt
-README_Template.md
+./Virtual_Contests_Participation.txt
+./README_Template.md
+./input.in
+./output.o
